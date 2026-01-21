@@ -90,4 +90,4 @@ CV-Basic-Image-Capture/
 
 ## Author
 
-Hwan - Fulbright University Vietnam, Spring 2026
+HwanNorm - Fulbright University Vietnam, Spring 2026
